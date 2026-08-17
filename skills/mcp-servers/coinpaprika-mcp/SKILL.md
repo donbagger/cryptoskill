@@ -11,7 +11,7 @@ metadata:
 
 # CoinPaprika MCP Server
 
-Official CoinPaprika MCP server providing real-time cryptocurrency market data for 12,000+ coins and 350+ exchanges. 31 tools for tickers, OHLCV candles, exchange data, search, price conversion, and contract lookup. Free tier with 20,000 calls/month at 10 requests/second per IP, no API key required.
+Official CoinPaprika MCP server providing real-time cryptocurrency market data for 12,000+ coins and 350+ exchanges. 31 tools for tickers, OHLCV candles, exchange data, search, price conversion, and contract lookup. Free tier, no API key required; plans and quotas at https://coinpaprika.com/api/pricing.
 
 ## Installation
 
